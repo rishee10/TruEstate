@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework>=3.14
+django-filter>=23.0
+psycopg2-binary>=2.9   # optional, required for Postgres
+python-dateutil>=2.8
+gunicorn
+whitenoise
+psycopg2-binary
+dj-database-url
