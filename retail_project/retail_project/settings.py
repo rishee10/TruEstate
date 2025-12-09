@@ -97,7 +97,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'truestate_retail',
         'USER': 'postgres',
-        'PASSWORD': '1234',
+        'PASSWORD': 'Your_Database_Password',
         'HOST': 'localhost',
         'PORT': '5432',
     }
