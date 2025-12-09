@@ -1,4 +1,4 @@
-## Aproch
+## Approach
 
 I used Django for the backend. First, I created models based on the fields present in the CSV file and set up a PostgreSQL database. Using the Django admin panel, I stored all the CSV data in the PostgreSQL database. Then, I used React for the frontend to display the data with different filters and search options. Only the first 10 rows are displayed on a page, and the user can navigate to the next or previous page.
 
